@@ -1,0 +1,6 @@
+======
+*A Tool to lazy coders...
+
+Run it, code like a boss and enjoy free time...
+
+
