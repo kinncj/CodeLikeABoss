@@ -13,7 +13,7 @@ foreach($dir as $d)
 	{
 		continue;
 	}
-	$f = file($argv[1].$d->getFileName());
+	$f = file($argv[1].'/'.$d->getFileName());
 	
 	if(!is_array($f))
 	{
